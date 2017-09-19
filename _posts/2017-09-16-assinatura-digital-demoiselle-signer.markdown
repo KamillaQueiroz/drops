@@ -3,8 +3,8 @@ layout: post
 date: 2017-09-16T21:05:04-03:00
 title: "Assinatura Digital - Demoiselle Signer"
 author: cesaraugusto
-abstract: >
-Assinatura digital de documentos. Teoria, e prática. Framework para java - Demoiselle Signer
+abstract:  >
+  Assinatura digital de documentos. Teoria, e prática. Framework para java - Demoiselle Signer
 ---
 
 Recentemente foi desenvolvido um sistema de assinatura digital para dois clientes. Para a empresa EmedBr foram utilizados módulos prontos, fornecidos pela Certisign e pela Eval. Estes módulos requerem uma assinatura, com custo mensal para sua utilização.
